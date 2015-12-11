@@ -18,7 +18,7 @@ body {
     font-size: 100%;
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
-
+    overflow-x: hidden;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
