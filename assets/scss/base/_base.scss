@@ -1,0 +1,32 @@
+* {
+    &,
+    &:before,
+    &:after {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+}
+
+html,
+body {
+    min-height: 100%;
+    height: auto;
+}
+
+body {
+    font-size: 100%;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+}
+
+.container {
+    max-width: 84em;
+    padding-left: 1em;
+    padding-right: 1em;
+}

@@ -1,0 +1,37 @@
+{
+  "name": "greys",
+  "title": "Grey colors",
+  "url": "https://github.com/urre/greys",
+  "author": "Urban Sanden",
+  "version": "1.0.3",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-changed": "*",
+    "gulp-concat": "*",
+    "gulp-csslint": "*",
+    "gulp-cssmin": "*",
+    "gulp-header": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-plumber": "*",
+    "gulp-rev": "*",
+    "gulp-rev-collector": "*",
+    "gulp-sass": "*",
+    "gulp-size": "*",
+    "gulp-uglify": "*",
+    "imagemin-pngcrush": "*",
+    "jshint-stylish": "*",
+    "require-dir": "*",
+    "tinycolor2": "^1.3.0"
+  },
+  "devDependencies": {
+    "imagemin-gifsicle": "^4.2.0",
+    "imagemin-jpegtran": "^4.3.0",
+    "imagemin-pngquant": "^4.1.2"
+  }
+}

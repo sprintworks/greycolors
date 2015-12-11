@@ -1,0 +1,22 @@
+{
+  "name": "gulpsetup",
+  "version": "1.0.2",
+  "authors": [
+    "Urban Sanden <hej@urre.me>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexboxgrid": "~6.3.0"
+  },
+  "devDependencies": {
+    "ionicons": "~2.0.1",
+    "basscss-sass": "~1.0.2"
+  }
+}

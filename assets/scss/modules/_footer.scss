@@ -1,0 +1,29 @@
+.footer {
+	color: #666;	
+	text-align: center;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	background-color: lighten(black, 97%);
+}
+
+.footer p {
+	font-size: .95rem;
+	color: #666;
+	margin: 0;
+	line-height: 1;
+	a {
+		color: #666;
+		text-decoration: none;
+		&:hover {
+			color: #333;
+		}
+	}
+}
+
+.twitter-share-button {
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 1rem;
+	position: relative !important;
+	top: -2px;
+}
