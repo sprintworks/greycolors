@@ -1,5 +1,7 @@
 # Grey colors
 
+Simple website hosted on Surge.
+
 [greycolors.xyz](http://greycolors.xyz)
 
 ## Develop
